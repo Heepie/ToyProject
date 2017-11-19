@@ -7,20 +7,17 @@ ToyProject 정리 공간입니다.</br>
 
 | Header One | Header Two | Header Two | Header Two |  
 | :---------- |---------- | ---------- | --------- |
-| - [Test](naver.com) | Left       |
+| - [Test](naver.com) | Left       <img src="https://camo.githubusercontent.com/dc5e0d82bf7deae7614cf78ea58bcdaa5d41f1a2/687474703a2f2f6366696c6532392e75662e746973746f72792e636f6d2f696d6167652f39393231314533333539424641314343303844353536" width=50 height=50>|
 
 
 
-<table frame=void>
-  <caption>Lorem</caption>
-  <thead>
+<table border="0">
     <tr>
       <th></th> 
       <th>Ipsum　　　　　　　　　　 </th>
       <th>Ipsum　　　　　　　　　　 </th>
       <th>Ipsum　　　　　　　　　　 </th>
     </tr>
-  </thead>
   <tbody>
     <tr>
       <th>Ipsum</th>
@@ -40,9 +37,14 @@ ToyProject 정리 공간입니다.</br>
       <td>Dolor</td>
     </tr>
   </tbody>
-  <tfoot>
     <tr>
-      <td colspan="2">Table Foot</td>
+      <td colspan="3">Table Foot </br> <li>Test</li>
+      </td>
+      <td align="center"><img src="https://camo.githubusercontent.com/dc5e0d82bf7deae7614cf78ea58bcdaa5d41f1a2/687474703a2f2f6366696c6532392e75662e746973746f72792e636f6d2f696d6167652f39393231314533333539424641314343303844353536" width=10 height=10 ></td>
     </tr>
-  </tfoot>
 </table>
+
+| | | |
+|-|-|-|
+| Normal Key| Value1 |
+|__BoldKey__| Value2 |
