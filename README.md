@@ -5,6 +5,8 @@ ToyProject 정리 공간입니다.</br>
 <table border="0">
     <tr>
       <td colspan="3"><font size="10px">[Android] 음악 플레이어 프로젝트　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</font></br>
+            <li><a href="http://heepie.tistory.com/216">음악 플레이어 프로젝트 [애니메이션 추가]</a></li>
+            <li><a href="http://heepie.tistory.com/215">음악 플레이어 프로젝트 [데이터 정렬]</a></li>
             <li><a href="http://heepie.tistory.com/204">음악 플레이어 프로젝트 [최종 설계 및 해야 할 것]</a></li>
             <li><a href="http://heepie.tistory.com/199">음악 플레이어 프로젝트 [최적화 3- Thread 병렬처리]</a></li>
             <li><a href="http://heepie.tistory.com/190">음악 플레이어 프로젝트 [최적화 2 - 설계 변경]</a></li>
